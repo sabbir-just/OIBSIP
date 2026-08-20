@@ -28,7 +28,7 @@ customer-profile dimensions — this substitution is documented directly in the 
 8. Conclusion with 3 specific, actionable business recommendations.
 
 ## Files in this folder
-- `Superstore_EDA.ipynb` — full analysis notebook
+- `eda-on-retail-sales-data.ipynb` — full analysis notebook
 - `superstore_eda_script.py` — same code as a flat, readable Python script (for quick reference/local runs)
 - `README_Superstore.md` — this file
 
